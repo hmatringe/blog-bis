@@ -38,6 +38,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootstrap-sass'
 gem 'simple_form'
 gem 'figaro'
+gem 'cloudinary'
+gem 'carrierwave', '~> 1.2'
 
 
 group :development, :test do
